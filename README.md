@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the official Dispatcher Discord Bot for the [United Dispatch Discord Server][ud]
+- 🌱 I’m currently learning ethical hacking on https://tryhackme.com/
+- 💬 Ask me about anything except school pls :smile:
+- 📫 How to reach me: [Mail][mail]
+
 ## 📈 Some stats:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KokosnussDEV&count_private=true)](https://github.com/KokosnussDEV)
 
@@ -17,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[ud]: https://discord.gg/RcTNjpB
+[mail]: mailto:konstantin@teamcoffee.codes?subject=Hey
