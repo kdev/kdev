@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the official Dispatcher Discord Bot for the [United Dispatch Discord Server][ud]
-- 🌱 I’m currently learning ethical hacking on https://tryhackme.com/
+- 🌱 I’m currently learning how natural language processing works
 - 💬 Ask me about anything except school pls :smile:
 - 📫 How to reach me: [Mail][mail]
 
