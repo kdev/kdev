@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [ud]: https://discord.gg/RcTNjpB
-[mail]: mailto:konstantin@teamcoffee.codes?subject=Hey
+[mail]: mailto:konstantinw@ledbrain.de?subject=Hey
