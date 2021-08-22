@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the official Dispatcher Discord Bot for the [United Dispatch Discord Server][ud]
+- 🔭 I’m currently working on something special for [Recast Gaming](https://recastgaming.de) ([@gaming_recast](https://twitter.com/gaming_recast))
 - 🌱 I’m currently learning how natural language processing works
-- 💬 Ask me about anything except school pls :smile:
-- 📫 How to reach me: [Mail][mail]
+- 💬 Ask me about my day 🙈
+- 📫 How to reach me: [Mail][mail] or [Discord][discord]
 
 ## 📈 Some stats:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kdev&count_private=true)](https://github.com/kdev)
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 -->
 [ud]: https://discord.gg/RcTNjpB
 [mail]: mailto:konstantinw@ledbrain.de?subject=Hey
+[discord]: https://discord.com/users/199964094357307392
