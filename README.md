@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something special for [Recast Gaming](https://recastgaming.de) ([@gaming_recast](https://twitter.com/gaming_recast))
+- 🔭 I’m currently working on nothing really, if you have an interesting idea -> hit me up
 - 🌱 I’m currently learning how natural language processing works
 - 💬 Ask me about my day 🙈
 - 📫 How to reach me: [Mail][mail] or [Discord][discord]
