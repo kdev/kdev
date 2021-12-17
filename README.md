@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nothing really, if you have an interesting idea -> hit me up
-- 🌱 I’m currently learning how natural language processing works
+- 🌱 I’m currently learning how auth (OAuth2, JWTs, etc.) works
 - 💬 Ask me about my day 🙈
 - 📫 How to reach me: [Mail][mail] or [Discord][discord]
+- 😄 Pronouns: he/him
 
 ## 📈 Some stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdev&theme=monokai)
