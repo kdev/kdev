@@ -4,7 +4,6 @@
 - 📫 [Mail][mail]
 - 😄 Pronouns: he/him
 
-## 📈
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdev&theme=monokai)
 
 
