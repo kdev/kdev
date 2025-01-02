@@ -1,28 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing really, if you have an interesting idea -> hit me up
-- 🌱 I’m currently learning how auth (OAuth2, JWTs, etc.) works
-- 💬 Ask me about my day 🙈
-- 📫 How to reach me: [Mail][mail] or [Discord][discord]
+- 🌱 I’m currently studying applied computer sciences
+- 📫 [Mail][mail]
 - 😄 Pronouns: he/him
 
-## 📈 Some stats:
+## 📈
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdev&theme=monokai)
 
-<!--
-**KokosnussDEV/KokosnussDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [ud]: https://discord.gg/RcTNjpB
-[mail]: mailto:konstantinw@ledbrain.de?subject=Hey
+[mail]: mailto:me@kcvw.de?subject=Hey
 [discord]: https://discord.com/users/199964094357307392
