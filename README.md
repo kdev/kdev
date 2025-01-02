@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently studying applied computer sciences
 - 📫 [Mail][mail]
